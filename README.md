@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="350"/>
 <h1 align="center">Hi 👋, I'm Kubilay Efe Akdoğan</h1>
 <h3 align="center">C# Developer Building Blockchain Tools</h3>
 
