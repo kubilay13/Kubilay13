@@ -60,10 +60,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kubilay13&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</p>
